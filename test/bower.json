@@ -1,0 +1,7 @@
+{
+    "name": "testing only",
+    "dependencies": {
+        "jquery": "~2.1.4",
+        "angular": "~1.4.7"
+    }
+}
